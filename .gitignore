@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# venv
+.venv/
+venv/
+env/
+
+# 実行時に生成されるもの
+screenshots/
+results/
+workspace/CLAUDE.md
+
+# エディタ/OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*~
+
+# ログ/一時ファイル
+*.log
+*.tmp
+
+# claude
+.claude
