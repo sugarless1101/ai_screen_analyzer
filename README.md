@@ -115,14 +115,13 @@ description: 説明文
 
 新しい指示書を追加したい場合は `instructions/` に新しい `.md` を置くだけで、次回起動時の選択肢に現れます。
 
-### 同梱指示書
+### 指示書
 
 | ファイル | 用途 | モデル |
 |---|---|---|
-| `competitive_programming.md` | 競技プログラミング練習問題の解答・解説 | `opus` |
-| `aptitude_test.md` | SPI/玉手箱の練習補助 (コンテキスト最適化あり) | `haiku` |
 | `error_analysis.md` | BSOD・例外・エラーログの分析 | `sonnet` |
 | `general.md` | 汎用画面分析・シーン推測・アドバイス | `sonnet` |
+etc..
 
 ## トラブルシューティング
 
