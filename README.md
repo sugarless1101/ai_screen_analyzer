@@ -23,7 +23,7 @@ Claude Code CLI で解析する tkinter GUI アプリ。
 - Python 3.10+ (macOS 同梱 3.9 の tkinter は macOS 26 でクラッシュするため NG)
 - Homebrew
 - Claude Code CLI (`claude` コマンドが `PATH` に通っていること)
-- HDMI キャプチャボード (USB3 Video 系、OBS で動作するもの)
+- HDMI キャプチャボード パススルー機能付き (YFFSFDC 4K HDMI キャプチャーボード使用、OBS で動作確認)
 
 ## セットアップ
 
