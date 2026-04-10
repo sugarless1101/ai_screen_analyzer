@@ -120,7 +120,7 @@ description: 説明文
 | ファイル | 用途 | モデル |
 |---|---|---|
 | `competitive_programming.md` | 競技プログラミング練習問題の解答・解説 | `opus` |
-| `aptitude_test.md` | SPI/玉手箱の高速回答 (コンテキスト最適化あり) | `haiku` |
+| `aptitude_test.md` | SPI/玉手箱の練習補助 (コンテキスト最適化あり) | `haiku` |
 | `error_analysis.md` | BSOD・例外・エラーログの分析 | `sonnet` |
 | `general.md` | 汎用画面分析・シーン推測・アドバイス | `sonnet` |
 
