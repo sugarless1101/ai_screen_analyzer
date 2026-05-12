@@ -87,7 +87,6 @@ ai_screen_analyzer/
 ├── .venv/                       # (git管理外)
 ├── instructions/                # 起動時に選択する指示書群 (マスター)
 │   ├── competitive_programming.md
-│   ├── aptitude_test.md
 │   ├── error_analysis.md
 │   └── general.md
 ├── workspace/
